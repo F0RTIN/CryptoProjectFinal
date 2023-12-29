@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-class StreamCipherExample
+class StreamCipher
 {
     static void Main()
     {
